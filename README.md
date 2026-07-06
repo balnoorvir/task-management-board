@@ -1,16 +1,24 @@
-# React + Vite
+#  Task Management Board
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
+A responsive Trello-style Task Management Board built using React and Vite. Users can add, edit, move, and delete tasks while all data is stored in the browser using localStorage.
 
-Currently, two official plugins are available:
+## Features
+- Add new tasks
+- Edit task titles
+- Delete tasks
+- Move tasks between To Do, In Progress, and Done
+- Priority-based task colors (High, Medium, Low)
+- Data persistence with localStorage
+- Responsive design for desktop and mobile
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+##  Tech Stack
+- React
+- Vite
+- JavaScript (ES6+)
+- CSS3
+- HTML5
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+##  Screenshots
+![Project Screenshot](q.png)
+![Project Screenshot](r.png)
