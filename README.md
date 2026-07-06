@@ -20,7 +20,7 @@ A responsive Trello-style Task Management Board built using React and Vite. User
 - HTML5
 
 ## Live Website Link
-task-management-board-dzbzxfe0y-balnoorvir-kaur.vercel.app
+https://task-management-board-orpin.vercel.app/
 
 ##  Screenshots
 ![Project Screenshot](screenshots/q.png)
