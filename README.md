@@ -20,5 +20,5 @@ A responsive Trello-style Task Management Board built using React and Vite. User
 - HTML5
 
 ##  Screenshots
-![Project Screenshot](q.png)
-![Project Screenshot](r.png)
+![Project Screenshot](screenshots/q.png)
+![Project Screenshot](screenshots/r.png)
